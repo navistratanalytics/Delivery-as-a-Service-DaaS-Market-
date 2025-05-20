@@ -6,7 +6,7 @@ The Delivery-as-a-Service (DaaS) Market was USD 36.47 Billion in 2024 and is exp
 
 ---
 
-## 📈 Market Dynamics
+## 📈 Market Dynamics :
 
 **20th May 2025 –** Rapid internet penetration has increased the convenience and accessibility of online buying and delivery, which is accelerating revenue growth of Delivery-as-a-Service (DaaS) market. According to the International Telecommunication Union (ITU), 68% of the world's population, or 5.5 billion people, will use the Internet by 2024. The year-on-year growth rate has also increased, from 2.7% last year to 3.4% this year.
 
