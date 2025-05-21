@@ -1,5 +1,3 @@
-# Delivery-as-a-Service (DaaS) Market Size to Reach USD 150.29 Billion in 2032
-
 The Delivery-as-a-Service (DaaS) Market was USD 36.47 Billion in 2024 and is expected to register a revenue CAGR of 19.8 % during the forecast period. 
 
 📄 **[Request a Free Copy of the Report](https://navistratanalytics.com/request-free-sample/838)**
@@ -8,7 +6,7 @@ The Delivery-as-a-Service (DaaS) Market was USD 36.47 Billion in 2024 and is exp
 
 ## 📈 Market Dynamics :
 
-**20th May 2025 –** Rapid internet penetration has increased the convenience and accessibility of online buying and delivery, which is accelerating revenue growth of Delivery-as-a-Service (DaaS) market. According to the International Telecommunication Union (ITU), 68% of the world's population, or 5.5 billion people, will use the Internet by 2024. The year-on-year growth rate has also increased, from 2.7% last year to 3.4% this year.
+**21st May 2025 –** Rapid internet penetration has increased the convenience and accessibility of online buying and delivery, which is accelerating revenue growth of Delivery-as-a-Service (DaaS) market. According to the International Telecommunication Union (ITU), 68% of the world's population, or 5.5 billion people, will use the Internet by 2024. The year-on-year growth rate has also increased, from 2.7% last year to 3.4% this year.
 
 The delivery-as-a-service (DaaS) market for quick prescription medicine delivery is predicted to expand rapidly. According to research, over half of US counties have areas that are more than 10 miles from the nearest pharmacy, limiting quick access to pharmacies. Traditional mail-order prescriptions might take up to ten days to arrive; DaaS providers can capitalize on this potential by providing speedy medicine delivery within hours. 
 
@@ -22,7 +20,7 @@ However, rising prices for petrol are projected to slow market revenue growth. M
 
 ---
 
-## 📊 Segment Overview
+## 📊 Segment Overview :
 
 - **The delivery segment account contributed the largest revenue share in 2024.** DaaS offers organizations flexible, on-demand delivery options that eliminate the need to invest in and maintain their delivery fleet. This service-oriented delivery approach uses technology-driven solutions and transport optimization to provide rapid, cost-effective, and customer-centric delivery experiences.
   
@@ -30,7 +28,7 @@ However, rising prices for petrol are projected to slow market revenue growth. M
 
 ---
 
-## 🌍 Regional Insights
+## 🌍 Regional Insights :
 
 - **North America registered the highest market share in the Delivery-as-a-Service (DaaS) Market.** The increasing demand for Delivery-as-a-Service (DaaS) in autonomous last-mile and on-demand delivery is expected to cause considerable market revenue growth over the projected period. DaaS providers around the United States are implementing environmentally friendly transportation solutions to decrease carbon-intensive portions of the supply chain. 
   
@@ -38,7 +36,7 @@ However, rising prices for petrol are projected to slow market revenue growth. M
 
 ---
 
-## 🏢 Competitive Landscape
+## 🏢 Competitive Landscape :
 
 **Key Players:**
 - DHL International GmbH
@@ -53,19 +51,21 @@ However, rising prices for petrol are projected to slow market revenue growth. M
 - Starship Technologies, Inc.
 - Zipline International Inc. 
 - HungryPanda AU Pty Ltd
+- Fleet
+- Kiwi Campus Inc. 
 
 
 📦 **[Buy the Full Report](https://navistratanalytics.com/purchase-report/838)**
 
 ---
 
-## 🧩 Strategic Developments
+## 🧩 Strategic Developments :
 
-- **Kiwibot:** Nikon Corporation: On 26th February 2023, Kiwibot has established a USD 10 million finance deal with Kineo Finance. The funding will help Kiwibot develop its robotic delivery fleet and further disrupt the Delivery-as-a-Service (DaaS) business. The monies will be used to expand operations and production to fulfill increasing demand.
+- **Kiwibot:** On 26th February 2023, Kiwibot has established a USD 10 million finance deal with Kineo Finance. The funding will help Kiwibot develop its robotic delivery fleet and further disrupt the Delivery-as-a-Service (DaaS) business. The monies will be used to expand operations and production to fulfill increasing demand.
 
 ---
 
-## 🔓 Unlock the Key to Transforming Your Business Strategy with Our Nanoimprint Lithography (NIL) System Market Insights – 
+## 🔓 Unlock the Key to Transforming Your Business Strategy with Our Delivery As a Service (DaaS) Market Insights – 
 
 - [Download the report summary](https://navistratanalytics.com/request-free-sample/838)
 - [Request customization](https://navistratanalytics.com/request-customization/838)
@@ -74,38 +74,56 @@ However, rising prices for petrol are projected to slow market revenue growth. M
 
 ## 📚 Navistrat Analytics has segmented the Delivery as a service (DaaS) Market on the basis of service type, delivery model, customer type, application, and region:
 
-**By Type (Revenue, USD Million; 2022-2032)**
+**By Type (Revenue, USD Billion; 2022-2032)**
 - Delivery Services
-  - On-demand Delivery
-  - Scheduled Delivery
+   - On-demand Delivery
+	    - Same-day Delivery
+      - Next-day Delivery
+   - Scheduled Delivery
 - Value-Added Services
    - Software
+      - Tracking & Monitoring
+      - Reporting & Analytics	
    - Signature Confirmation
    - Returns & Exchanges
    - Insurance
    - Others
 
-**By Delivery Model (Revenue, USD Million; 2022-2032)**
-- Standalone
-- Integrated
+**By Delivery Model (Revenue, USD Billion; 2022-2032)**
+- Vehicle-based
+	- Light Commercial Vehicles (LCVs)
+  - Medium Commercial Vehicles (MCVs)
+  - Heavy Commercial Vehicles (HCVs)
+  - Two-Wheelers
+- Air shipping
+- Autonomous delivery robots (ADRs) 
+- Unmanned Aerial Vehicles (UAVs)
 
 
-**By Application (Revenue, USD Million; 2022-2032)**
-- Semiconductors
-- Optical Devices
-- Biotechnology
-- Solar Cells & Modules
-- Others
+**By Customer Type (Revenue, USD Billion; 2022-2032)**
+- Business-to-Business (B2B)
+- Business-to-Consumer (B2C)
+- Consumer-to-Consumer (C2C)
+- Direct-to-Consumer (D2C)
 
-**By End-Use (Revenue, USD Million; 2022-2032)**
-- Consumer Electronics
-- IT & Telecom
-- Automotive
-- Energy & Utilities
+**By Application (Revenue, USD Billion; 2022-2032)**
+- E-commerce and Retail
+  - FMCG & CPG (Non-Food)
+  - Fashion and Apparel 
+  - Consumer Durable
+- Food and Beverage (F&B)
+  - Food Delivery
+  - Grocery & Packaged Food
+  - Alcoholic & Non-alcoholic Beverages
 - Healthcare
+  - Prescription Drug Delivery
+  - Laboratories & Diagnostics
+  - Medical Equipment
+- Courier Services
+- Packers and Movers
 - Others
 
-## 🌍 **By Region (Revenue, USD Million; 2022-2032)**
+## 🌍 **By Region (Revenue, USD Billion; 2022-2032)**
 
 - **North America**
   - United States 
@@ -143,7 +161,7 @@ However, rising prices for petrol are projected to slow market revenue growth. M
   - Turkey
   - Rest of MEA
 
-🔍 **[Preview Full Report](https://navistratanalytics.com/report_store/nanoimprint-lithography-nil-system-market/)**
+🔍 **[Preview Full Report](https://navistratanalytics.com/report_store/delivery-as-a-service-daas-market/)**
 
 ---
 
